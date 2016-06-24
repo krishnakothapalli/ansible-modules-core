@@ -27,7 +27,6 @@ description:
     for segementing configuration into sections.  This module provides
     an implementation for working with IOSXE configuration sections in
     a deterministic way.
-extends_documentation_fragment: iosxe
 options:
   lines:
     description:

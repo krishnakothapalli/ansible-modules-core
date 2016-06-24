@@ -28,7 +28,6 @@ description:
     by evaluting the current running-config and only pushing configuration
     commands that are not already configured.  The config source can
     be a set of commands or a template.
-extends_documentation_fragment: iosxe
 options:
   src:
     description:
